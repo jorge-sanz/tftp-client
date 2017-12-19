@@ -18,7 +18,7 @@ TFTP client written in C. Project developed for learning purposes in Networks an
 
 ```bash
 # Clone repository.
-git clone https://gitlab.com/jorgesanz/tftp-client
+git clone https://github.com/jorge-sanz/tftp-client.git
 cd tftp-client
 ```
 
